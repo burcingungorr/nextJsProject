@@ -1,36 +1,55 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🍽️ FitRehber – Günlük Kalori Takip ve Sağlıklı Yaşam Uygulaması
 
-## Getting Started
+**FitRehber**, kullanıcıların günlük hedef kalorisini belirleyip, gün içinde yaktıkları ve aldıkları kalorileri kolayca takip edebildiği, API’den çekilen sağlıklı tarifler ve antrenmanların yaktığı kalorileri gösteren kapsamlı bir mobil uygulamadır.  
+Kullanıcılar kalori dengesini yönetirken, sağlıklı beslenme ve egzersiz önerileriyle yaşam kalitelerini artırabilirler.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Özellikler
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- 👤 Kullanıcı kayıt ve profil yönetimi  
+- 🎯 Günlük hedef kalori belirleme  
+- 🔥 Gün içinde alınan ve yakılan kalorilerin manuel takibi  
+- 🥗 API’den çekilen tarifler listesi ve kalori bilgileri  
+- 🏋️‍♂️ API’den çekilen antrenman programları ve yaktıkları kalori değerleri  
+- 📊 Günlük kalori alımı ve harcamasının görsel takibi  
+- 📱 Kullanıcı dostu, sade ve etkili arayüz  
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 💡 Amaç
 
-## Learn More
+FitRehber, sağlıklı yaşam ve kilo kontrolü için kalori takibini kolaylaştırmak, kullanıcıları beslenme ve egzersiz konusunda bilinçlendirmek amacıyla tasarlanmıştır. Günlük yaşamda kalori dengesini koruyarak, kullanıcıların hedeflerine ulaşmasını destekler.
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+<div align="center">
+  <img src="![Ekran görüntüsü 2025-05-28 104750](https://github.com/user-attachments/assets/a274a728-e5f5-42d1-9fb6-2627f1025017)
+" width="130" />
+  <img src="  ![Ekran görüntüsü 2025-05-28 104805](https://github.com/user-attachments/assets/60bcb6ef-f974-4e80-a81b-8832319c8c1c)
+" width="130" />
+</div>
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<div align="center">
+  <img src="![Ekran görüntüsü 2025-05-28 151943](https://github.com/user-attachments/assets/b2216dc6-0c2b-439e-8259-df3eab8afa3f)
+  " width="130" />
+  <img src="  ![Ekran görüntüsü 2025-05-28 151926](https://github.com/user-attachments/assets/6093be18-fbee-4c2f-897d-b2496a72c021)
+ " width="130" />
+</div>
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+<div align="center">
+  <img src=" ![Ekran görüntüsü 2025-05-28 151914](https://github.com/user-attachments/assets/ed861b28-8f0e-4104-bda5-f28d5a765b8e)
+" width="130" />
+  <img src="![Ekran görüntüsü 2025-05-28 150016](https://github.com/user-attachments/assets/7cf4fb18-e4cc-4927-b09d-bcd809624076)
+  " width="130" />
+</div>
+
+
+<div align="center">
+  <img src="![Ekran görüntüsü 2025-05-28 151937](https://github.com/user-attachments/assets/fb56b5cd-d755-4dd4-a15f-ae7563b0acef)
+  " width="130" />
+</div>
