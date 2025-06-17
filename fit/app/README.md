@@ -22,24 +22,25 @@ Kullanıcılar kalori dengesini yönetirken, sağlıklı beslenme ve egzersiz ö
 FitRehber, sağlıklı yaşam ve kilo kontrolü için kalori takibini kolaylaştırmak, kullanıcıları beslenme ve egzersiz konusunda bilinçlendirmek amacıyla tasarlanmıştır. Günlük yaşamda kalori dengesini koruyarak, kullanıcıların hedeflerine ulaşmasını destekler.
 
 ---
-
 <div align="center">
-  <img src="![Ekran görüntüsü 2025-05-28 104750](https://github.com/user-attachments/assets/d51d74cd-a69c-4abc-98d8-dee5fb614045)
-" width="130" />
-  <img src="https://github.com/user-attachments/assets/60bcb6ef-f974-4e80-a81b-8832319c8c1c.png?raw=true" width="130" />
+  <img src="![Ekran görüntüsü 2025-05-28 104805](https://github.com/user-attachments/assets/d2e89136-163b-4417-a1e4-26801160e819)
+  " width="180" style="margin-right:10px;" />
+  <img src="![Ekran görüntüsü 2025-05-28 104750](https://github.com/user-attachments/assets/324e2758-d202-4ab3-a386-afccf40cd274)" width="180" />
 </div>
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/b2216dc6-0c2b-439e-8259-df3eab8afa3f.png?raw=true" width="130" />
-  <img src="https://github.com/user-attachments/assets/6093be18-fbee-4c2f-897d-b2496a72c021.png?raw=true" width="130" />
+<div align="center" style="margin-top:10px;">
+  <img src="![Ekran görüntüsü 2025-05-28 151943](https://github.com/user-attachments/assets/27c50bca-21e3-47a7-b4f1-2dd6d0b68936)
+" width="180" style="margin-right:10px;" />
+  <img src="![Ekran görüntüsü 2025-05-28 151926](https://github.com/user-attachments/assets/86b0f7b6-c4db-4f2a-aa35-5cf636abacdd)
+ " width="180" />
 </div>
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/ed861b28-8f0e-4104-bda5-f28d5a765b8e.png?raw=true" width="130" />
-  <img src="https://github.com/user-attachments/assets/7cf4fb18-e4cc-4927-b09d-bcd809624076.png?raw=true" width="130" />
+<div align="center" style="margin-top:10px;">
+  <img src=" ![Ekran görüntüsü 2025-05-28 151914](https://github.com/user-attachments/assets/7268bb6c-f10b-4fc0-8ff9-b6e00891342a)
+ " width="180" style="margin-right:10px;" />
+  <img src="![Ekran görüntüsü 2025-05-28 151937](https://github.com/user-attachments/assets/55b9b2a0-7e1a-4083-8a6e-0f4350748acb)
+  " width="180" />
 </div>
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/fb56b5cd-d755-4dd4-a15f-ae7563b0acef.png?raw=true" width="130" />
-</div>
+
 
