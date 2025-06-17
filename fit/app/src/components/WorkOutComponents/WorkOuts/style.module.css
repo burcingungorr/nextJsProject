@@ -1,0 +1,39 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  justify-content: flex-start;
+  overflow: hidden;
+  max-width: 100%;
+  box-sizing: border-box;
+  padding-top: 16px;
+}
+
+.card {
+  background-color: #f3eedb;
+  padding: 16px;
+  border-radius: 12px;
+  width: calc(25% - 12px);
+  text-align: center;
+  font-weight: 500;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease;
+  box-sizing: border-box;
+  margin-top: 10px;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+@media (max-width: 768px) {
+  .card {
+    width: calc(50% - 12px);
+  }
+}
+
+@media (max-width: 480px) {
+  .card {
+    width: 100%;
+  }
+}

@@ -1,0 +1,58 @@
+.userContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3eedb;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.08);
+  max-width: 400px;
+  flex-direction: column;
+  margin: 0 auto;
+}
+
+.profileIcon {
+  background-color: #e0e7ff;
+  padding: 12px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 12px;
+}
+
+.profileIcon svg {
+  width: 32px;
+  height: 32px;
+  color: #1e3a8a;
+}
+
+.userContainer div strong {
+  display: block;
+  color: #1f2937;
+  font-size: 16px;
+  margin-bottom: 4px;
+}
+
+.userInfo p {
+  margin: 5px 0;
+  color: #374151;
+  font-size: 14px;
+}
+
+.userInfo div {
+  margin-top: 6px;
+  font-size: 14px;
+}
+.editIcon {
+  width: 16px;
+  height: 16px;
+  margin-left: 8px;
+  cursor: pointer;
+  color: #555;
+}
+
+.input {
+  margin-left: 8px;
+  width: 60px;
+}

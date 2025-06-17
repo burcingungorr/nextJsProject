@@ -1,0 +1,57 @@
+body {
+  margin: 20px;
+  font-family: sans-serif;
+  background: #f8fafc;
+  color: #111827;
+  overflow: hidden;
+}
+.container {
+  background-color: #cccdb9;
+  width: 74%;
+  height: 600px;
+  position: absolute;
+  left: 330px;
+  padding: 18px;
+  top: 25px;
+  border-radius: 16px;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+@media (max-width: 768px) {
+  .container {
+    left: 65px;
+  }
+}
+.target {
+  display: flex;
+  flex-direction: column;
+  margin-top: 35px;
+}
+
+/* Ekran 768px üzerindeyse yan yana */
+@media (min-width: 768px) {
+  .target {
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 20px;
+  }
+}
+.divcontainer {
+  position: absolute;
+  right: 30px;
+  top: 180px;
+}
+
+.cal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 767px) {
+  .cal {
+    flex-direction: column;
+    align-items: center;
+  }
+}

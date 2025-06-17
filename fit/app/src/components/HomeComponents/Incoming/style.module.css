@@ -1,0 +1,65 @@
+.card {
+  background-color: #f3eedb;
+  padding: 16px;
+
+  border-radius: 16px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.08);
+  max-width: 300px;
+  width: 100%;
+  margin: 0 auto;
+  margin-top: 35px;
+}
+@media (max-width: 600px) {
+  .card {
+    max-width: 90%;
+    padding: 16px;
+  }
+}
+
+.title {
+  font-size: 18px;
+  font-weight: 600;
+  color: #1f2b25;
+  margin-bottom: 16px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.label {
+  color: #1f2b25;
+  font-size: 14px;
+}
+
+.input {
+  margin-top: 6px;
+  padding: 8px 12px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 14px;
+  outline: none;
+  width: 90%;
+}
+
+.input:focus {
+  border-color: #1f2b25;
+  box-shadow: 0 0 0 2px rgba(31, 43, 37, 0.2);
+}
+
+.button {
+  background-color: #516354;
+  color: white;
+  padding: 10px 16px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background-color 0.3s ease;
+}
+
+.button:hover {
+  background-color: #2f3f31;
+}

@@ -1,0 +1,11 @@
+.icon {
+  width: 25px;
+  height: 25px;
+  margin-right: 5px;
+  margin-top: 10px;
+  color: gray; /* boş kalp rengi */
+  transition: color 0.3s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

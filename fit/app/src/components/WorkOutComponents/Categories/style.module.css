@@ -1,0 +1,35 @@
+.categoriesContainer {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.categoryBox {
+  padding: 16px;
+  background: #f0f0f0;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: background 0.2s;
+  user-select: none;
+  min-width: 100px;
+  box-sizing: border-box;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+.categoryBox.selected {
+  background: #516354;
+  color: #fff;
+}
+
+@media (max-width: 600px) {
+  .categoryBox {
+    padding: 12px 13px;
+    font-size: 14px;
+    min-width: 70px;
+  }
+  .categoriesContainer {
+    gap: 6px;
+  }
+}

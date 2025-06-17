@@ -1,0 +1,50 @@
+.foodCard {
+  background-color: #f3eedb;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  padding: 20px;
+  width: 170px;
+  height: 162px; /* SABİT YÜKSEKLİK */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  transition: transform 0.2s ease;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.foodCard h4 {
+  margin: 0 0 12px 0;
+  color: #333;
+  text-align: center;
+  margin-left: 1px;
+}
+.foodCard p {
+  margin: 0 0 3px 0;
+  color: #666;
+  font-size: 14px;
+}
+.foodCardButton {
+  background: #516354;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  padding: 5px 4px;
+  font-size: 12px;
+  cursor: pointer;
+  transition: background 0.2s;
+  margin-top: 5px;
+}
+.foodCardButton:hover {
+  background: #cccdb9;
+}
+.favorite {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.foodCard img {
+  width: 40%;
+  height: 60px; /* Yükseklik sınırı */
+  object-fit: cover; /* Görselin kırpılmadan sığması için */
+  border-radius: 10px;
+}

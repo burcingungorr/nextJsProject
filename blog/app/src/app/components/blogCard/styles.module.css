@@ -1,0 +1,38 @@
+.card {
+  display: flex;
+  flex-direction: row;
+}
+.cardImage {
+  position: relative;
+  width: 90px;
+  height: 90px;
+}
+.cardBody {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 12px;
+  flex: 1;
+}
+.cardBody h3 {
+  margin: 0 0 4px 0;
+  font-size: 1.1rem;
+
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.cardBody p {
+  margin: 0;
+  color: #555;
+  font-size: 0.9rem;
+
+  display: -webkit-box;
+  -webkit-line-clamp: 2; /* 2 satırla sınırla */
+  line-clamp: 2; /* Standard property for compatibility */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

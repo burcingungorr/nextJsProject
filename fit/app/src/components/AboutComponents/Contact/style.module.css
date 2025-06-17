@@ -1,0 +1,33 @@
+.contactContainer {
+  padding: 1.5rem;
+  background-color: #f3eedb;
+  border-radius: 16px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  margin-top: 20px;
+}
+
+.contactTitle {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.contactText {
+  margin-bottom: 1rem;
+  font-size: 1rem;
+  color: #444;
+}
+
+.contactList {
+  list-style: none;
+  padding: 0;
+  font-size: 1rem;
+}
+
+.contactList li {
+  margin-bottom: 0.5rem;
+  color: #444;
+}
+.contactList a {
+  color: black;
+  text-decoration: none;
+}
