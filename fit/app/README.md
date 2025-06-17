@@ -24,7 +24,8 @@ FitRehber, sağlıklı yaşam ve kilo kontrolü için kalori takibini kolaylaşt
 ---
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/a274a728-e5f5-42d1-9fb6-2627f1025017.png?raw=true" width="130" />
+  <img src="![Ekran görüntüsü 2025-05-28 104750](https://github.com/user-attachments/assets/d51d74cd-a69c-4abc-98d8-dee5fb614045)
+" width="130" />
   <img src="https://github.com/user-attachments/assets/60bcb6ef-f974-4e80-a81b-8832319c8c1c.png?raw=true" width="130" />
 </div>
 
