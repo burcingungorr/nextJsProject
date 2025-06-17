@@ -23,18 +23,18 @@ FitRehber, sağlıklı yaşam ve kilo kontrolü için kalori takibini kolaylaşt
 
 ---
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/d2e89136-163b-4417-a1e4-26801160e819" width="180" style="margin-right:10px;" />
-  <img src="https://github.com/user-attachments/assets/324e2758-d202-4ab3-a386-afccf40cd274" width="180" />
+  <img src="https://github.com/user-attachments/assets/d2e89136-163b-4417-a1e4-26801160e819" width="250" style="margin-right:10px;" />
+  <img src="https://github.com/user-attachments/assets/324e2758-d202-4ab3-a386-afccf40cd274" width="250" />
 </div>
 
 <div align="center" style="margin-top:10px;">
-  <img src="https://github.com/user-attachments/assets/27c50bca-21e3-47a7-b4f1-2dd6d0b68936" width="180" style="margin-right:10px;" />
-  <img src="https://github.com/user-attachments/assets/86b0f7b6-c4db-4f2a-aa35-5cf636abacdd" width="180" />
+  <img src="https://github.com/user-attachments/assets/27c50bca-21e3-47a7-b4f1-2dd6d0b68936" width="250" style="margin-right:10px;" />
+  <img src="https://github.com/user-attachments/assets/86b0f7b6-c4db-4f2a-aa35-5cf636abacdd" width="250" />
 </div>
 
 <div align="center" style="margin-top:10px;">
-  <img src="https://github.com/user-attachments/assets/7268bb6c-f10b-4fc0-8ff9-b6e00891342a" width="180" style="margin-right:10px;" />
-  <img src="https://github.com/user-attachments/assets/55b9b2a0-7e1a-4083-8a6e-0f4350748acb" width="180" />
+  <img src="https://github.com/user-attachments/assets/7268bb6c-f10b-4fc0-8ff9-b6e00891342a" width="250" style="margin-right:10px;" />
+  <img src="https://github.com/user-attachments/assets/55b9b2a0-7e1a-4083-8a6e-0f4350748acb" width="250" />
 </div>
 
 
